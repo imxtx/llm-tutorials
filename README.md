@@ -4,6 +4,6 @@
 
 ## 视频列表
 
-|视频|主题|相关资料|代码|
-|:---|:---|:---|:---|
-|[大语言模型 LLM 基础之 Tokenizer 完全介绍](https://www.bilibili.com/video/BV1Fc411C7sz)|Tokenizer|[[slides](./slides/LLM中的Tokenizers.pdf)]||
+|视频|主题|相关资料|
+|:---|:---|:---|
+|[大语言模型 LLM 基础之 Tokenizer 完全介绍](https://www.bilibili.com/video/BV1Fc411C7sz)|Tokenizer|[[slides](./slides/LLM中的Tokenizers.pdf)]|
